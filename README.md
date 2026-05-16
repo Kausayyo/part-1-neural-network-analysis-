@@ -22,18 +22,6 @@ part-1-neural-network-analysis/
     └── model_comparison_table.png   ← Visual comparison chart
 ```
 
-## How to Run
-```bash
-# 1. Install dependencies
-pip install -r requirements.txt
-
-# 2. Place the dataset in the same directory as notebook.py
-#    (customer_churn_nn.csv)
-
-# 3. Run the script
-python notebook.py
-```
-
 ## Tasks Covered
 | Task | Description |
 |------|-------------|
